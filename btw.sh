@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sudo pacman -S grub efibootmgr networkmanager network-manager-applet mtools dosftools reflector git base-devel linux-headers bluez bluez-utils cups xdg-utils xdg-user-dirs
+sudo pacman -S neofetch lolcat grub efibootmgr networkmanager network-manager-applet mtools dosfstools reflector base-devel bluez bluez-utils cups xdg-utils xdg-user-dirs
